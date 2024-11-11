@@ -1,4 +1,3 @@
-
 public class Catatan {
     private String judul;
     private String isi;
