@@ -4,15 +4,11 @@ Aplikasi Catatan Harian adalah sebuah aplikasi desktop berbasis Java yang diranc
    
 # Keunggulan Aplikasi
 
-1.     Antarmuka Pengguna yang Ramah: Desain intuitif yang memudahkan pengguna dari berbagai latar belakang untuk menggunakan aplikasi.
-
-2.     Perhitungan Akurat: Menggunakan LocalDate dari Java untuk menghitung jumlah hari dan selisih hari dengan akurasi tinggi.
-
-3.     Fleksibilitas Pemilihan Tanggal: Memungkinkan pengguna untuk memilih bulan, tahun, dan tanggal dengan mudah menggunakan dropdown dan komponen JCalendar.
-
-4.     Informasi Lengkap: Menyediakan informasi tentang hari pertama dan terakhir bulan yang dipilih, serta selisih hari dengan tanggal yang dipilih.
-
-5.     Portabilitas: Dapat dijalankan di berbagai platform yang mendukung Java, seperti Windows, macOS, dan Linux.
+1.     Antarmuka Sederhana dan Intuitif: Memudahkan pengguna untuk menulis, mengedit, dan menghapus catatan dengan cepat.
+2.     Pengelolaan Catatan yang Terstruktur: Setiap catatan memiliki judul dan isi yang terorganisir sehingga mudah ditemukan dan dibaca kembali.
+3.     Fitur Penyimpanan Eksternal: Catatan dapat disimpan dalam format .txt, memungkinkan akses luar aplikasi dan keamanan data pengguna.
+4.     Navigasi Efisien: Pengguna dapat memilih catatan yang sudah dibuat dari daftar, lalu mengedit atau menghapusnya tanpa kesulitan.
+5.     Penampilan yang Menarik: Menggunakan skema warna modern dan font yang mudah dibaca, aplikasi ini memberikan pengalaman menulis yang nyaman.
 
 
 
