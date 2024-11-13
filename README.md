@@ -1,6 +1,6 @@
 # AplikasiCatatanHarian
  
-Aplikasi Perhitungan Hari adalah sebuah program berbasis Java yang dirancang untuk menghitung jumlah hari dalam suatu bulan tertentu dan selisih hari antara tanggal yang dipilih dengan tanggal lainnya. Aplikasi ini menggunakan antarmuka grafis (GUI) yang dibangun dengan Swing, memungkinkan pengguna untuk memilih bulan dan tahun dari dropdown, serta memilih tanggal kedua menggunakan komponen JCalendar. Setelah pengguna mengklik tombol "Hitung", aplikasi akan menampilkan hari pertama dan terakhir dari bulan yang dipilih, jumlah hari dalam bulan tersebut, serta selisih hari antara tanggal yang dipilih dan hari pertama bulan tersebut. Aplikasi ini juga menyediakan opsi untuk menghapus hasil perhitungan dan keluar dari aplikasi. Dengan antarmuka yang sederhana dan intuitif, aplikasi ini memudahkan pengguna dalam melakukan perhitungan tanggal.
+Aplikasi Catatan Harian adalah sebuah aplikasi desktop berbasis Java yang dirancang untuk membantu pengguna mencatat dan mengelola catatan pribadi dengan mudah. Dengan antarmuka sederhana dan intuitif, pengguna dapat menambahkan, mengedit, dan menghapus catatan sesuai kebutuhan. Setiap catatan mencakup judul, serta isi. Aplikasi ini juga dilengkapi fitur penyimpanan yang memungkinkan pengguna untuk menyimpan catatan dalam format .txt, sehingga catatan dapat diakses dan dibaca kembali di luar aplikasi. Cocok untuk penggunaan pribadi, aplikasi ini memberikan solusi praktis dalam menyimpan dan mengatur catatan sehari-hari.
    
 # Keunggulan Aplikasi
 
